@@ -1,0 +1,22 @@
+{
+    "client_id": "723019872807813144",
+    "rpc": {
+        "state": "Made with love by Sin",
+        "details": "Cool, I have a custom status!",
+        "time": true,
+		"custom_time": false,
+        "start": "1",
+        "end": "",
+        "large_image": "icon",
+        "large_text": "Pydii",
+        "small_image": "profile",
+        "small_text": "v1.0.0",
+		"_comment": "Advanced users only below",
+        "party_id": "",
+        "party_size": "",
+        "join": "",
+        "spectate": "",
+        "match": "",
+        "instance": true
+    }
+}
