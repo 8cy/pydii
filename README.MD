@@ -3,11 +3,11 @@ A simple and open source Discord custom RPC tool.
 
 ## Usage
 To use this tool, all you need to do is;
-1. Download the latest [release](https://github.com/8cy/pydii/releases).
+1. Download the latest [release](https://github.com/fuwn/pydii/releases).
 2. Configure the provided `config.json`.
 3. Start up the Pydii executable!
 
-Alternatively, you can just clone or download the [repository](https://github.com/8cy/pydii) and run the `pydii.py` file.
+Alternatively, you can just clone or download the [repository](https://github.com/fuwn/pydii) and run the `pydii.py` file.
 
 There are also extra features down below so check out the image.
 
